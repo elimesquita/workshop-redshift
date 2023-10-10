@@ -1,0 +1,18 @@
+
+#Arquitetura de sistema do data warehouse
+https://docs.aws.amazon.com/pt_br/redshift/latest/dg/c_high_level_system_architecture.html
+
+
+#Use Amazon Redshift RA3 with managed storage in your modern data architecture
+https://aws.amazon.com/pt/blogs/big-data/use-amazon-redshift-ra3-with-managed-storage-in-your-modern-data-architecture/
+
+
+#Qual é a diferença entre OLAP e OLTP?
+https://aws.amazon.com/pt/compare/the-difference-between-olap-and-oltp/
+
+O OLTP ou Processamento de Transações Online é um tipo de processamento de dados que consiste 
+na execução de várias transações que ocorrem simultaneamente 
+(transações bancárias online, compras, entrada de pedidos ou envio de mensagens de texto, por exemplo).
+
+OLAP ou Online Analytical Processing (Processamento Analítico Online), 
+é uma habilidade para executar dentro do Data Warehouse e realizar análises dos grandes volumes de dados. 

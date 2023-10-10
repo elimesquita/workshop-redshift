@@ -1,0 +1,34 @@
+
+## Criar um Cluster AWS Redshift
+
+
+
+
+# Passo 001 
+### Crie uma Role usando a Política AWS
+Nome da Role: Role_Workshop_RDFT_ia16
+Política da Role: AmazonRedshiftAllCommandsFullAccess e AmazonRedshiftFullAccess
+
+# IAM - Identity and Access Management
+https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/introduction.html
+
+
+# Passo 002 
+### Dados para Criação do Cluster
+Nome do Cluster: cluster-workshop-redshift
+Usuário: ia16
+Senha: Workshop2023
+Tempo de Criação do Cluster: Inicio: 05:09
+
+# Banco de dados de exemplo
+https://docs.aws.amazon.com/pt_br/redshift/latest/dg/c_sampledb.html
+
+# Passo 003 
+### Explorar um pouco o Painel do Cluster (Dashboard)
+
+###Final da Aula
+-- Criar um Snapshot e Pausa o Cluster
+-- Nome do Snapshot: backupsnapv1
+
+
+
