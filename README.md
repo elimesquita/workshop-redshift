@@ -1,15 +1,23 @@
 # workshop-redshift
 
 
-Dia 01:
+## Dia 01:
 -Conhecendo a Arquitetura do Redshift
+
 -Criando Cluster Redshift usando a versão gratuita
+
 -Conecte-se ao banco de dados usando o Redshift Query Editor V1
+
 -Executar consultas em tabelas Redshift usando o Query Editor V1
+
 -Entendendo o uso de PRIMARY KEY e FOREIGN KEY no Redshift
+
 -Inserir dados em tabelas Redshift
+
 -Atualizar dados em tabelas Redshift
+
 -Pausando o seu Cluster Redshift
+
 
 
 
