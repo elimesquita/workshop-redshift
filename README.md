@@ -1,7 +1,7 @@
-# workshop-redshift
+# Workshop Redshift
 
 
-## Dia 01:
+# Dia 01:
 -Conhecendo a Arquitetura do Redshift
 
 -Criando Cluster Redshift usando a versão gratuita
