@@ -21,7 +21,7 @@
 
 
 
-Dia 02:
+# Dia 02:
 
 -Introdução às consultas SQL básicas usando o AWS Redshift SQL
 -Visão geral do uso de VIEWS em consultas SQL do Redshift
